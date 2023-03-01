@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHairKacarrot
+  name: Kacarrot hair
+  description: 'The iconic hair of Kacarrot from hit anime "Wyvern Sphere X"!'
+  components:
+  - type: Sprite
+    sprite: Clothing/Head/Anime/kacarrot.rsi
+  - type: Clothing
+    sprite: Clothing/Head/Anime/kacarrot.rsi
