@@ -8,3 +8,14 @@
     sprite: Clothing/Head/Anime/kacarrot.rsi
   - type: Clothing
     sprite: Clothing/Head/Anime/kacarrot.rsi
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHairCell
+  name: Perfection Organism's helmet
+  description: '"Perfect" for when you're in the mood for an End of the World fighting tournament.'
+  components:
+  - type: Sprite
+    sprite: Clothing/Head/Anime/perfect.rsi
+  - type: Clothing
+    sprite: Clothing/Head/Anime/perfect.rsi
