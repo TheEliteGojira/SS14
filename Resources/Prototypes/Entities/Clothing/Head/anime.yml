@@ -2,7 +2,7 @@
   parent: ClothingHeadBase
   id: ClothingHeadHairKacarrot
   name: Kacarrot hair
-  description: 'The iconic hair of Kacarrot from hit anime "Wyvern Sphere X"!'
+  description: The iconic hair of Kacarrot from hit anime "Wyvern Sphere X"!
   components:
   - type: Sprite
     sprite: Clothing/Head/Anime/kacarrot.rsi
@@ -13,7 +13,7 @@
   parent: ClothingHeadBase
   id: ClothingHeadHairCell
   name: Perfection Organism's helmet
-  description: '"Perfect" for when you're in the mood for an End of the World fighting tournament.'
+  description: "Perfect" for when you're in the mood for an End of the World fighting tournament.
   components:
   - type: Sprite
     sprite: Clothing/Head/Anime/perfect.rsi
