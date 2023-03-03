@@ -1,10 +1,13 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHelmetDredd
-  name: Judge Helmet
+  name: Mega Helmet One
   description: The Judge, Jury, and Executioner all in one.
   components:
   - type: Sprite
     sprite: Clothing/Head/PopMedia/Retro/dredd.rsi
   - type: Clothing
     sprite: Clothing/Head/PopMedia/Retro/dredd.rsi
+  - type: Tag
+    tags:
+    - HidesHair
