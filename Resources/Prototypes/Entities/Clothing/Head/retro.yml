@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHelmetDredd
+  name: Judge Helmet
+  description: The Judge, Jury, and Executioner all in one.
+  components:
+  - type: Sprite
+    sprite: Clothing/Head/PopMedia/Retro/dredd.rsi
+  - type: Clothing
+    sprite: Clothing/Head/PopMedia/Retro/dredd.rsi
