@@ -1,0 +1,5 @@
+- type: vendingMachineInventory
+  id: AniDrobeInventory
+  startingInventory:
+    ClothingHeadHairKacarrot: 3
+    ClothingHeadHairCell: 2

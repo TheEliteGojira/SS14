@@ -1,0 +1,8 @@
+﻿- type: advertisementsPack
+  id: AniDrobeAds
+  advertisements:
+  - advertisement-anidrobe-1
+  - advertisement-anidrobe-2
+  - advertisement-anidrobe-3
+  - advertisement-anidrobe-4
+  - advertisement-anidrobe-5

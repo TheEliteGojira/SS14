@@ -1,0 +1,4 @@
+- type: vendingMachineInventory
+  id: RetrobeInventory
+  startingInventory:
+    ClothingHeadHelmetDredd: 2
