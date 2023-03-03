@@ -5,9 +5,9 @@
   description: The iconic hair of Kacarrot from hit anime Wyvern Sphere X!
   components:
   - type: Sprite
-    sprite: Clothing/Head/Anime/kacarrot.rsi
+    sprite: Clothing/Head/PopMedia/Anime/kacarrot.rsi
   - type: Clothing
-    sprite: Clothing/Head/Anime/kacarrot.rsi
+    sprite: Clothing/Head/PopMedia/Anime/kacarrot.rsi
 
 - type: entity
   parent: ClothingHeadBase
@@ -16,6 +16,6 @@
   description: Perfect for when you're in the mood for an End of the World fighting tournament.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Anime/perfect.rsi
+    sprite: Clothing/Head/PopMedia/Anime/perfect.rsi
   - type: Clothing
-    sprite: Clothing/Head/Anime/perfect.rsi
+    sprite: Clothing/Head/PopMedia/Anime/perfect.rsi
