@@ -36,3 +36,17 @@
     sprite: Clothing/Head/PopMedia/Anime/strawhat.rsi
   - type: Clothing
     sprite: Clothing/Head/PopMedia/Anime/strawhat.rsi
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHairMiku
+  name: Datsune Kiku hair
+  description: The even more iconic hair of the most famous virtual singer of all time!
+  components:
+  - type: Sprite
+    sprite: Clothing/Head/PopMedia/Anime/miku.rsi
+  - type: Clothing
+    sprite: Clothing/Head/PopMedia/Anime/miku.rsi
+  - type: Tag
+    tags:
+    - HidesHair
