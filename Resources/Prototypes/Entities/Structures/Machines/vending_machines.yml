@@ -1483,7 +1483,7 @@
 - type: entity
   parent: VendingMachine
   id: VendingMachineAniDrobe
-  name: AniDrobe
+  name: Japanimation Vendor
   description: The best friend of any anime enthusiast; just looking at it makes you feel weebish.
   components:
   - type: VendingMachine
